@@ -1,6 +1,5 @@
 @COIN_RELOCATABLE_FALSE@prefix=@prefix@
 @COIN_RELOCATABLE_TRUE@prefix=${pcfiledir}/../..
-prefix=@prefix@
 datarootdir=@datarootdir@
 datadir=${datarootdir}/@PACKAGE_TARNAME@
 
